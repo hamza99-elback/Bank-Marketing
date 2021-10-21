@@ -34,5 +34,5 @@ Input variables:
 15. previous: number of contacts performed before this campaign and for this client (numeric)
 16. poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
-Output variable (desired target):
+### Output variable (desired target):
 17. y - has the client subscribed a term deposit? (binary: 'yes','no')
